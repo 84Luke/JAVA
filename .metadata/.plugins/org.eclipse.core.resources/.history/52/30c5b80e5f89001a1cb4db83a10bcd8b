@@ -1,0 +1,17 @@
+
+public class Pierwszy {
+
+	public static void main(String[] args) {
+		new Pierwszy();
+
+	}
+	
+	public Pierwszy()
+	{
+		Paczka telewizor = new Paczka(150,80,120,6000);
+		int objetosc1 = telewizor.ObliczObj();
+		
+		Sytem.out.println("Objêtoœæ paczki o rozmiarach")
+	}
+
+}
